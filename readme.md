@@ -1,3 +1,3 @@
 # new project 
-this project is mad for local system
+this project is made for local system
 created by abhinav
